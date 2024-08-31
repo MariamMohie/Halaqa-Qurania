@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "284861642450",
+    "project_id": "halqa-quraania",
+    "storage_bucket": "halqa-quraania.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284861642450:android:29b231a512998efb729f0b",
+        "android_client_info": {
+          "package_name": "com.example.islamic"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd3gM_ykJVvUvZOjM6iDj1oqxCt0xyMTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
